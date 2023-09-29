@@ -3,9 +3,14 @@ div {
     display: flex;
 }
 span {
+    width: 25vw;
+    height: 25vh;
+    margin: 1%;
+    background-color: lightblue;
+    text-align: center;
+}
+canvas {
     width: 20vw;
     height: 20vh;
-    margin: 1%;
-    background-color: darkolivegreen;
-    text-align: center;
+    padding: 5px;
 }
